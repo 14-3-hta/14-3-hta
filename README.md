@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @14-3-hta
 - 👀 I’m interested in Web developing.
-- 🌱 I’m currently learning React and Nest.js.
+- 🌱 I’m currently learning React and Next.js.
 - 💞️ I’m looking to collaborate on Reactors.
 - 📫 How to reach me on facebook, youtube.
 - 😄 Pronouns: Old Soul-O Soe
